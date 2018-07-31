@@ -60,4 +60,10 @@ Future features
     karlysson.alves@gmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
 
+## Contributors 
 
+- André Morganti: https://github.com/andremorganti
+- Erik Patekoski: https://github.com/epatekoski
+- Karlysson Alves: https://github.com/karlysson
+- Victor Siqueira: https://github.com/CodeN2
+- Vinicius Maciel: https://github.com/vimaciel
