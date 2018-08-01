@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @professional.name %>
+</p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @professional.email %>
+</p>
+
+<p>
+  <strong>Language:</strong>
+  <%= @professional.language %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @professional.description %>
+</p>
+
+<p>
+  <strong>Professional history:</strong>
+  <%= @professional.professional_history %>
+</p>
+
+<p>
+  <strong>Key words:</strong>
+  <%= @professional.key_words %>
+</p>
+
+<%= link_to 'Edit', edit_professional_path(@professional) %> |
+<%= link_to 'Back', professionals_path %>
