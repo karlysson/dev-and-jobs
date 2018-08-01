@@ -63,7 +63,7 @@ Future features
 ## Contributors 
 
 - André Morganti: https://github.com/andremorganti
-- Erik Patekoski: https://github.com/epatekoski
+- Erik Patekoski: https://github.com/patota
 - Karlysson Alves: https://github.com/karlysson
 - Victor Siqueira: https://github.com/CodeN2
 - Vinicius Maciel: https://github.com/vimaciel
