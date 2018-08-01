@@ -1,2 +1,22 @@
 @import "materialize";
 @import "material_icons";
+@import url('https://fonts.googleapis.com/css?family=Salsa');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import "index";
+
+body{
+    background-color: #FC7074;
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.logo{
+    font-family: 'Salsa', cursive;
+    padding: 15px;
+    font-size: 35px;
+    color: #ffb3b8;
+}
+
+p{
+    font-size: 20px;
+}
