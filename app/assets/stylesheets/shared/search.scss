@@ -1,0 +1,27 @@
+.title{
+    text-align: left;
+}
+
+.search{
+    position: relative;
+}
+
+.search input[type=text]{
+    background: white !important;
+    border-bottom:transparent !important;
+    box-shadow:transparent !important;
+    color: #FC7074 !important;
+    font-size: 1.6em !important;   
+    padding: 10px !important;
+    border-radius: 50px !important;
+    padding-left:80px !important;
+}
+
+.search i{
+    position:absolute;
+    left:0;
+    top:-3px;
+    padding:9px 8px;
+    color:#E2E2E2;
+    transition:.3s;
+}
