@@ -2,7 +2,10 @@
 @import "material_icons";
 @import url('https://fonts.googleapis.com/css?family=Salsa');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
-@import "index";
+@import "shared/search";
+@import "shared/job_container";
+@import "job/index";
+
 
 body{
     background-color: #FC7074;
@@ -19,4 +22,9 @@ body{
 
 p{
     font-size: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: underline;
 }

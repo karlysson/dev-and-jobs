@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
-  root 'home#index'
+  root 'job#index'
+  get '/jobs/:search', to: 'job#search_jobs'
+
   devise_for :users, :controllers => { registrations: 'registrations' }
 end

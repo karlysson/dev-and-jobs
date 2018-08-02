@@ -1,0 +1,25 @@
+.item-job{
+    margin-top: 15px;
+}
+
+.item-job > ul {
+    margin-top: 7px;
+    
+}
+
+.item-job > ul > li{
+    font-size: 18px;
+    list-style-type: square;
+    margin-left: 35px;
+}
+
+.logo-job {
+    position: relative;
+}
+
+.logo-job > img{
+    position: absolute;
+    width: 70px;
+    right: -5px;
+    top: -20px;
+}
